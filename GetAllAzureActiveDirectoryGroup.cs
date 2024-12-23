@@ -34,6 +34,7 @@ namespace QBM.CompositionApi
 
                     var query = Query.From("AADGroup").Select("*");
 
+                    //This is an example fot the git exercise
                     if (!string.IsNullOrWhiteSpace(userInserted) && !string.IsNullOrWhiteSpace(userUpdated))
                     {
                         query = query.Where(string.Format("XUserInserted = '{0}' AND XUserUpdated = '{1}'", userInserted , userUpdated));
