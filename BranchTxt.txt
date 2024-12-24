@@ -1,1 +1,1 @@
-Branch1 text
+Compined text of branch1 and conflict text
