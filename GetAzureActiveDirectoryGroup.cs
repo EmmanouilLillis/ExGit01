@@ -23,6 +23,7 @@ namespace QBM.CompositionApi
 {
     public class GetAzureActiveDirectoryGroup : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider
     {
+        //This is a conflict example
         public void Build(IApiBuilder builder)
         {
             builder.AddMethod(Method.Define("exercise/GetAzureGroups")

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\getallazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\getazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|solutionrelative:getazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\apiprojects\\ex03apis.compositionapi.server.plugin\\getallazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|solutionrelative:getallazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\desktop\\apiprojects\\ex03apis.compositionapi.server.plugin\\insertazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\insertazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|solutionrelative:insertazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\createmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|solutionrelative:createmembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\getazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|solutionrelative:getazureactivedirectorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5615C89C-A2D8-4FB9-90F4-80A3F1A1A277}|Ex03APIs.CompositionApi.Server.Plugin.csproj|C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\postpredefinedsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GetAllAzureActiveDirectoryGroup.cs",
               "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\GetAllAzureActiveDirectoryGroup.cs",
               "RelativeDocumentMoniker": "GetAllAzureActiveDirectoryGroup.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InsertAzureActiveDirectoryGroup.cs",
               "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\InsertAzureActiveDirectoryGroup.cs",
               "RelativeDocumentMoniker": "InsertAzureActiveDirectoryGroup.cs",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "InsertAzureActiveDirectoryGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:29:36.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T13:29:36.96Z"
             },
             {
               "$type": "Document",
@@ -80,19 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GetAzureActiveDirectoryGroup.cs",
               "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\GetAzureActiveDirectoryGroup.cs",
               "RelativeDocumentMoniker": "GetAzureActiveDirectoryGroup.cs",
               "ToolTip": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\GetAzureActiveDirectoryGroup.cs",
               "RelativeToolTip": "GetAzureActiveDirectoryGroup.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswDEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:41:27.862Z"
+              "WhenOpened": "2024-12-11T09:41:27.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateMembership.cs",
               "DocumentMoniker": "C:\\Users\\OneIM\\Desktop\\ApiProjects\\Ex03APIs.CompositionApi.Server.Plugin\\CreateMembership.cs",
               "RelativeDocumentMoniker": "CreateMembership.cs",
